@@ -1,6 +1,6 @@
 # Quiz App
 
-Overview
+**Overview**
 
 This Quiz App is a React-based web application where users can take quizzes on various topics and receive instant feedback. The app supports multiple-choice questions and provides a summary of the user’s score at the end.
 
