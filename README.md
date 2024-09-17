@@ -4,7 +4,7 @@ Overview
 
 This Quiz App is a React-based web application where users can take quizzes on various topics and receive instant feedback. The app supports multiple-choice questions and provides a summary of the user’s score at the end.
 
-#Features
+**Features**
 
 Multiple Choice Questions: Users can answer questions and get instant feedback.
 
@@ -14,7 +14,7 @@ Responsive Design: Optimized for mobile and desktop use.
 
 Component-based Structure: Built using reusable components for scalability and maintenance.
 
-#Technologies
+**Technologies**
 
 React: Frontend framework.
 
@@ -24,10 +24,11 @@ CSS: For styling and layout.
 
 React Hooks: For managing state and side effects.
 
-Installation
+**Installation**
+
 To run this project locally, follow the steps below.
 
-#Prerequisites
+**Prerequisites**
 
 Node.js (v12 or higher). Download from here.
 
